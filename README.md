@@ -2,7 +2,7 @@
 
 👋 ¡Hola! Bienvenido a mi portafolio profesional.
 
-Soy estudiante de Ingeniería Informática con experiencia en desarrollo web, administración de sistemas y soporte técnico. Aquí puedes encontrar algunos de mis proyectos más destacados.
+Soy Ingeniero Informático con experiencia en desarrollo web, administración de sistemas y soporte técnico. Aquí puedes encontrar algunos de mis proyectos más destacados.
 
 ## 🔗 Enlace al sitio
 
@@ -27,4 +27,4 @@ Puedes visitar el portafolio desplegado en GitHub Pages desde aquí:
 
 - Email: juliobastidas1101@gmail.com
 - GitHub: [@jcbs6](https://github.com/jcbs6)
-- Instagram: [@juliobastidas11](https://instagram.com/juliobastidas11)
+- Instagram: [@juliobastidas11](https://instagram.com/juliobastidas_)
